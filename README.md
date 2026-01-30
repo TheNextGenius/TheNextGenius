@@ -5,8 +5,8 @@
 </div>
 
 <div align="center">
-  <!-- Reliable Arise GIF -->
-  <img src="https://i.pinimg.com/originals/1c/56/67/1c56672322314541e263721b59074ba2.gif" width="600" alt="Sung Jin Woo Arise" />
+  <!-- Local High-Res Arise GIF -->
+  <img src="assets/header.gif" width="600" alt="Sung Jin Woo Arise" />
 </div>
 
 ---
@@ -30,8 +30,8 @@
 ---
 
 <div align="center">
-  <!-- Purple Portal -->
-  <img src="https://i.pinimg.com/originals/90/a6/5c/90a65c276b91c1d88a1005086711516e.gif" width="100" alt="Void Portal" />
+  <!-- Igris Portal -->
+  <img src="assets/igris.gif" width="600" alt="Igris Arise" />
 </div>
 
 ### 🦇 **[SHADOW_ARMY_SKILLS]**
@@ -45,7 +45,8 @@
 ---
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/90/a6/5c/90a65c276b91c1d88a1005086711516e.gif" width="100" alt="Void Portal" />
+  <!-- Shadow Army March -->
+  <img src="assets/army.gif" width="600" alt="Shadow Army March" />
 </div>
 
 ### 🟣 **[DUNGEON_CLEAR_STATS]**
@@ -77,11 +78,8 @@
 
 <div align="center">
   <h3><b>ARISE.</b></h3>
-  <img src="https://i.pinimg.com/originals/2b/a7/67/2ba767182283a00505b225381a4b647c.gif" width="100%" alt="Solo Leveling Footer" />
+  <img src="https://media1.tenor.com/m/7ydr3yFqXWAAAAAC/solo-leveling-arise.gif" width="100%" alt="Solo Leveling Footer" />
   <br/>
   <br/>
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-  <br/>
-  <!-- Reliable Music Visualizer -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300" alt="Music Visualizer" />
 </div>
