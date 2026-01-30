@@ -1,72 +1,71 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=20C20E&width=600&lines=SYSTEM+OVERRIDE...;PROTOCOL%3A+SUPERIOR+SPIDER-MAN;USER%3A+JAY+SHUKLA;STATUS%3A+NEURODIVERGENT+GENIUS" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=SYSTEM+ALERT%3A+PLAYER+DETECTED;NAME%3A+JAY+SHUKLA;JOB%3A+SHADOW+MONARCH;STATUS%3A+LEVELING+UP..." alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/oXnN2TNSgfJQI/giphy.gif" width="600" alt="Spider-Man Swinging" />
+  <img src="https://media.giphy.com/media/XGguBqDk93M9q/giphy.gif" width="600" alt="Sung Jin Woo Arise" />
 </div>
 
 ---
 
-### 🟢 **[IDENTITY_MODULE]**
+### 🟦 **[SYSTEM_STATUS_WINDOW]**
 
-| **Parameter** | **Data** |
+| **PARAMETER** | **VALUE** |
 | :--- | :--- |
-| **Name** | Jay Shukla |
-| **Codename** | **TheNextGenius** |
-| **Archetype** | Ethical Hacker 🛡️ // Full Stack Dev 💻 |
-| **Trait** | `Neurodivergent Logic Core` 🧩 |
-| **Philosophy** | *"Processing the world through a unique lens."* |
+| **NAME** | **Jay Shukla** |
+| **JOB** | Ethical Hacker 🗡️ // Full Stack Necromancer 💀 |
+| **TITLE** | *The Next Genius* |
+| **LEVEL** | **MAX** (Neurodivergent Class) |
+| **MANA** | `[██████████] 100%` (Infinite Creativity) |
+| **FATIGUE** | `[░░░░░░░░░░] 0%` (Always Grinding) |
 
 ---
 
-### 📊 **[NEURAL_INTERFACE]**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheNextGenius&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheNextGenius&theme=radical&hide_border=true" alt="Streak" />
-</div>
-
----
-
-### ⚔️ **[ARSENAL_SYNC]**
+### 🦇 **[SHADOW_ARMY]**
 
 <div align="center">
   <!-- Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=4B0082" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=00008B" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&color=4B0082" />
+  
+  <br/>
+
   <!-- Hacking -->
-  <br/>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white&color=00008B" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white&color=4B0082" />
+  
+   <br/>
+
   <!-- Tools -->
-  <br/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe_Premiere-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&color=00008B" />
+  <img src="https://img.shields.io/badge/Discord.py-7289DA?style=for-the-badge&logo=discord&logoColor=white&color=4B0082" />
 </div>
 
 ---
 
-### 🕸️ **[MISSION_LOG]**
+### 🟣 **[DUNGEON_CLEAR_STATS]**
 
-| **Objective** | **Status** | **Intel** |
-| :--- | :--- | :--- |
-| **[Cha Hae](https://github.com/TheNextGenius/Cha-Hae)** | `[ONLINE]` | Advanced AI-powered Discord Companion. |
-| **Contribution Graph** | `[PAINTING]` | *Manual Override Engaged via Python Script.* |
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TheNextGenius&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheNextGenius&theme=tokyonight&hide_border=true" alt="Streak" />
+</div>
 
 ---
 
-<!-- 
-HIDDEN TOKEN: SUPERIOR_MIND
-VGhlIGFyY2hpdGVjdHVyZSBvZiBhIG1pbmQgaXMgbW9yZSBjb21wbGV4IHRoYW4gYW55IGNvZGUu
--->
+### ⚔️ **[ACTIVE_QUESTS]**
+
+| **QUEST** | **DIFFICULTY** | **STATUS** |
+| :--- | :--- | :--- |
+| **[Cha Hae](https://github.com/TheNextGenius/Cha-Hae)** | `S-RANK` | `[ONLINE]` AI-Companion |
+| **Bug Bounty** | `A-RANK` | `[HUNTING]` Penetration Testing |
+
+---
 
 <div align="center">
-  <img src="https://github.com/TheNextGenius/TheNextGenius/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-  <br/>
-  <sub><i>"The die is cast."</i></sub>
+  <h3><b>ARISE.</b></h3>
+  <img src="https://media.giphy.com/media/10UeedrT5MIfPG/giphy.gif" width="100%" alt="Solo Leveling Footer" />
 </div>
