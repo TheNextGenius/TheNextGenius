@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E23636&center=true&vCenter=true&width=600&lines=SYSTEM+BREACH+DETECTED...;INITIATING+SPIDER-VERSE+PROTOCOL;WELCOME+JAY+SHUKLA;IDENTITY%3A+ETHICAL+HACKER;STATUS%3A+GUILTY+OF+BEING+AWESOME" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=20C20E&width=600&lines=SYSTEM+OVERRIDE...;PROTOCOL%3A+SUPERIOR+SPIDER-MAN;USER%3A+JAY+SHUKLA;STATUS%3A+NEURODIVERGENT+GENIUS" alt="Typing SVG" />
   </a>
 </div>
 
@@ -10,83 +10,63 @@
 
 ---
 
-### 🟢 [USER IDENTITY v2.0]
+### 🟢 **[IDENTITY_MODULE]**
 
 | **Parameter** | **Data** |
 | :--- | :--- |
 | **Name** | Jay Shukla |
-| **Archetype** | **Ethical Hacker 🛡️** // **Bug Bounty Hunter 🕷️** |
-| **Class** | Full Stack Developer |
-| **Trait** | Neurodivergent Logic Core 🧩 |
-| **Mission** | *"With great power comes great code."* |
+| **Codename** | **TheNextGenius** |
+| **Archetype** | Ethical Hacker 🛡️ // Full Stack Dev 💻 |
+| **Trait** | `Neurodivergent Logic Core` 🧩 |
 | **Philosophy** | *"Processing the world through a unique lens."* |
 
 ---
 
-### 🏆 [ACHIEVEMENT_SHELF]
+### 📊 **[NEURAL_INTERFACE]**
+
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=TheNextGenius&theme=flat&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=TheNextGenius&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheNextGenius&theme=radical&hide_border=true" alt="Streak" />
 </div>
 
 ---
 
-### 🕹️ [SUIT_HUD_DASHBOARD]
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>📊 DIAGNOSTICS</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=TheNextGenius&show_icons=true&bg_color=151515&title_color=E23636&text_color=FFFFFF&icon_color=0064C8&hide_border=true&count_private=true" alt="Stats" />
-      <br/>
-      <br/>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheNextGenius&theme=dark&background=151515&ring=E23636&fire=E23636&currStreakLabel=E23636&hide_border=true" alt="Streak" />
-    </td>
-    <td valign="top" width="50%">
-      <h3>🗺️ MULTIVERSE MAP</h3>
-      <a href="https://github.com/TheNextGenius">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheNextGenius&theme=github_dark" alt="Profile Details" />
-      </a>
-      <br/>
-      <h3>⚡ SYNC STATUS</h3>
-       <img src="https://img.shields.io/badge/Python-100%25-151515?style=flat-square&logo=python&logoColor=E23636" />
-       <img src="https://img.shields.io/badge/C++-100%25-151515?style=flat-square&logo=cplusplus&logoColor=0064C8" />
-       <img src="https://img.shields.io/badge/Hacking-80%25-151515?style=flat-square&logo=kali-linux&logoColor=E23636" />
-       <img src="https://img.shields.io/badge/Web-90%25-151515?style=flat-square&logo=react&logoColor=0064C8" />
-    </td>
-  </tr>
-</table>
-
----
-
-### 📡 [SPIDEY_SENSE_ACTIVITY]
+### ⚔️ **[ARSENAL_SYNC]**
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheNextGenius&bg_color=151515&color=E23636&line=0064C8&point=FFFFFF&hide_border=true" alt="Activity Graph" />
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <!-- Hacking -->
+  <br/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <!-- Tools -->
+  <br/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe_Premiere-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" />
 </div>
 
 ---
 
-### 🕸️ [ACTIVE_MISSIONS]
+### 🕸️ **[MISSION_LOG]**
 
-| **Objective** | **Status** | **Description** |
+| **Objective** | **Status** | **Intel** |
 | :--- | :--- | :--- |
-| **[Cha Hae](https://github.com/TheNextGenius/Cha-Hae)** | `[ONLINE]` | AI-powered personal Discord companion using `Discord.py`. |
-| **Bug Bounty** | `[HUNTING]` | Active reconnaissance on secure targets. Found a vulnerability? <br/> *My spider-sense is tingling!* |
+| **[Cha Hae](https://github.com/TheNextGenius/Cha-Hae)** | `[ONLINE]` | Advanced AI-powered Discord Companion. |
+| **Contribution Graph** | `[PAINTING]` | *Manual Override Engaged via Python Script.* |
 
 ---
 
 <!-- 
-HIDDEN QUEST: DECRYPT ME
+HIDDEN TOKEN: SUPERIOR_MIND
 VGhlIGFyY2hpdGVjdHVyZSBvZiBhIG1pbmQgaXMgbW9yZSBjb21wbGV4IHRoYW4gYW55IGNvZGUu
-(The architecture of a mind is more complex than any code.)
 -->
 
 <div align="center">
-  <img src="https://media.giphy.com/media/BWD3CtkpRGkyg/giphy.gif" width="100%" alt="Spider-Man Footer" />
+  <img src="https://github.com/TheNextGenius/TheNextGenius/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
   <br/>
-  <sub><i>"With great power comes great responsibility."</i></sub>
-  <br/>
-  <sub><b>SYSTEM LOGGING OFF...</b></sub>
+  <sub><i>"The die is cast."</i></sub>
 </div>
