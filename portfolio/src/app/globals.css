@@ -32,6 +32,7 @@
 :root {
   --background: #000000;
   --foreground: #ffffff;
+  scroll-behavior: smooth;
 }
 
 body {

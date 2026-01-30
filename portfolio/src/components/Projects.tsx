@@ -11,6 +11,8 @@ const projects = [
         description: "AI Companion with advanced conversational capabilities",
         tech: ["Python", "AI/ML", "NLP"],
         github: "https://github.com/TheNextGenius/Cha-Hae",
+        // TODO: Add your live demo URL if available
+        demo: null,
         color: "from-purple-600 to-pink-600"
     },
     {
@@ -18,6 +20,9 @@ const projects = [
         rank: "A-RANK",
         description: "Penetration testing and vulnerability assessment toolkit",
         tech: ["Security", "Python", "Web"],
+        github: null,
+        // TODO: Add your live demo URL if available
+        demo: null,
         color: "from-red-600 to-orange-600"
     },
     {
@@ -25,13 +30,15 @@ const projects = [
         rank: "A-RANK",
         description: "This immersive Solo Leveling themed portfolio",
         tech: ["Next.js", "Framer Motion", "Tailwind"],
+        github: "https://github.com/TheNextGenius/portfolio",
+        demo: "https://portfolio-jayshukla.vercel.app",
         color: "from-blue-600 to-cyan-600"
     }
 ];
 
 export default function Projects() {
     return (
-        <section className="min-h-screen flex items-center justify-center py-20 px-4">
+        <section id="projects" className="min-h-screen flex items-center justify-center py-20 px-4">
             <div className="max-w-6xl w-full">
                 <motion.h2
                     initial={{ opacity: 0, y: -20 }}
@@ -86,10 +93,17 @@ export default function Projects() {
                                                 <span>Code</span>
                                             </a>
                                         )}
-                                        <button className="flex items-center gap-2 text-sm text-system-blue hover:text-system-purple transition-colors">
-                                            <ExternalLink size={16} />
-                                            <span>Enter</span>
-                                        </button>
+                                        {project.demo && (
+                                            <a
+                                                href={project.demo}
+                                                target="_blank"
+                                                rel="noopener noreferrer"
+                                                className="flex items-center gap-2 text-sm text-system-blue hover:text-system-purple transition-colors"
+                                            >
+                                                <ExternalLink size={16} />
+                                                <span>Enter</span>
+                                            </a>
+                                        )}
                                     </div>
                                 </div>
                             </SystemWindow>

@@ -18,7 +18,7 @@ const skills = [
 
 export default function Stats() {
     return (
-        <section className="min-h-screen flex items-center justify-center py-20 px-4">
+        <section id="stats" className="min-h-screen flex items-center justify-center py-20 px-4">
             <div className="max-w-6xl w-full grid md:grid-cols-2 gap-8">
                 {/* Stats Window */}
                 <SystemWindow title="PLAYER STATS">
