@@ -5,19 +5,15 @@
 </div>
 
 <div align="center">
-  <img src="https://media1.tenor.com/m/XGguBqDk93MAAAAC/solo-leveling-sung-jin-woo.gif" width="600" alt="Sung Jin Woo Arise" />
+  <!-- Reliable Arise GIF -->
+  <img src="https://i.pinimg.com/originals/1c/56/67/1c56672322314541e263721b59074ba2.gif" width="600" alt="Sung Jin Woo Arise" />
 </div>
 
 ---
 
 <!--
 ### 🏆 **[DUNGEON_REWARDS_LOOT]**
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=TheNextGenius&theme=discord&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
-  </a>
-</div>
+(Service Currently Unavailable)
 -->
 
 ### 🟦 **[SYSTEM_STATUS_WINDOW]**
@@ -34,7 +30,8 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LmgFh01B1T5J1rG0sX/giphy.gif" width="200" alt="Void Portal" />
+  <!-- Purple Portal -->
+  <img src="https://i.pinimg.com/originals/90/a6/5c/90a65c276b91c1d88a1005086711516e.gif" width="100" alt="Void Portal" />
 </div>
 
 ### 🦇 **[SHADOW_ARMY_SKILLS]**
@@ -48,14 +45,13 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LmgFh01B1T5J1rG0sX/giphy.gif" width="200" alt="Void Portal" />
+  <img src="https://i.pinimg.com/originals/90/a6/5c/90a65c276b91c1d88a1005086711516e.gif" width="100" alt="Void Portal" />
 </div>
 
 ### 🟣 **[DUNGEON_CLEAR_STATS]**
 
 <div align="center">
-  <!-- Stats temporarily disabled due to service impedance (503) -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=TheNextGenius&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" /> -->
+  <!-- Stats temporarily disabled due to service impedance (503)-->
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheNextGenius&theme=tokyonight&hide_border=true" alt="Streak" />
 </div>
@@ -81,11 +77,11 @@
 
 <div align="center">
   <h3><b>ARISE.</b></h3>
-  <img src="https://media1.tenor.com/m/7ydr3yFqXWAAAAAC/solo-leveling-arise.gif" width="100%" alt="Solo Leveling Footer" />
+  <img src="https://i.pinimg.com/originals/2b/a7/67/2ba767182283a00505b225381a4b647c.gif" width="100%" alt="Solo Leveling Footer" />
   <br/>
   <br/>
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
   <br/>
-  <!-- Music Visualizer -->
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/equalizer.gif" width="300" alt="Music Visualizer" />
+  <!-- Reliable Music Visualizer -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300" alt="Music Visualizer" />
 </div>

@@ -4,7 +4,7 @@ import subprocess
 from datetime import datetime, timedelta
 
 # Configuration
-START_DATE = datetime(2025, 1, 1)  # Change this to when you want the graph to start filling
+START_DATE = datetime(2026, 1, 1)  # Change this to when you want the graph to start filling
 DAYS_TO_PAINT = 365
 MAX_COMMITS_PER_DAY = 15
 FILE_NAME = "garbage.txt"
