@@ -1,0 +1,68 @@
+@import "tailwindcss";
+
+@theme {
+  /* Colors */
+  --color-shadow-black: #000000;
+  --color-shadow-blue: #0b0c15;
+  --color-system-purple: #7b2cbf;
+  --color-system-blue: #00b4d8;
+  --color-system-gray: #1a1b26;
+
+  /* Fonts */
+  --font-cinzel: var(--font-cinzel);
+  --font-roboto-mono: var(--font-roboto-mono);
+}
+
+/* Custom Utilities */
+@layer utilities {
+  .text-glow {
+    text-shadow: 0 0 10px var(--color-system-purple), 0 0 20px var(--color-system-purple);
+  }
+
+  .border-glow {
+    box-shadow: 0 0 10px var(--color-system-blue);
+  }
+
+  .system-window {
+    @apply border border-[var(--color-system-blue)] bg-[var(--color-shadow-blue)]/90 backdrop-blur-md;
+    box-shadow: 0 0 15px rgba(0, 180, 216, 0.3);
+  }
+}
+
+:root {
+  --background: #000000;
+  --foreground: #ffffff;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-roboto-mono), monospace;
+  overflow-x: hidden;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--font-cinzel), serif;
+}
+
+@keyframes blink {
+
+  0%,
+  50% {
+    opacity: 1;
+  }
+
+  51%,
+  100% {
+    opacity: 0;
+  }
+}
+
+.animate-blink {
+  animation: blink 1s infinite;
+}
