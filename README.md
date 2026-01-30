@@ -1,75 +1,69 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/oXnN2TNSgfJQI/giphy.gif" width="600" alt="Spider-Man Swinging" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=E23636&center=true&vCenter=true&width=600&lines=SYSTEM+STARTS...;WELCOME%2C+JAY+SHUKLA;PROTOCOL%3A+WEB-SLINGER+ENGAGED;IDENTITY%3A+ETHICAL+HACKER;BUG+BOUNTY+OPERATIVE" alt="Typing SVG" />
+  </a>
+</div>
 
-  <h1 style="color: #E23636; font-family: 'Arial Black', sans-serif;">Hey there! I'm Jay Shukla 🕸️</h1>
-  
-  <p style="font-size: 1.2em; color: #0064C8;">
-    <b>"With great power comes great code."</b>
-  </p>
+<div align="center">
+  <img src="https://media.giphy.com/media/oXnN2TNSgfJQI/giphy.gif" width="600" alt="Spider-Man Swinging" />
 </div>
 
 ---
 
-### 🦸‍♂️ About Me
+### 🟢 [USER IDENTITY]
 
-<img align="right" src="https://media.giphy.com/media/8zYunr3Hg8XPq/giphy.gif" width="200" alt="Spider-Man Spidey Sense" />
-
-I'm just your friendly neighborhood developer, swinging between bugs and features!
-
-*   🎓 **B.Tech IT Student** - Learning the webs of technology.
-*   💻 **Freelancer** - Programmer & Video Editor.
-*   🧠 **Psychology Enthusiast** - Exploring the neurodivergent mind.
-*   🤖 **AI Dev** - Creator of [Cha Hae](https://github.com/TheNextGenius/Cha-Hae).
-
-> *"Code is the projection of the mind's logic into reality."*  
-> *Processing the world through a unique neurodivergent lens.* 🧩
+| **Parameter** | **Data** |
+| :--- | :--- |
+| **Name** | Jay Shukla |
+| **Role** | Ethical Hacker 🛡️ & Bug Bounty Hunter 🕷️ |
+| **Class** | Full Stack Developer |
+| **Trait** | Neurodivergent Logic Core � |
+| **Mission** | "Protecting the web, one bug at a time." |
+| **Philosophy** | *"Code is the projection of the mind's logic into reality."* |
 
 ---
 
-<div align="center">
+### ⚙️ [SUIT CALIBRATION]
 
-### 🕸️ My Web of Skills
+| **Module** | **Sync Status** | **Tech Stack** |
+| :--- | :--- | :--- |
+| **Languages** | `[██████████] 100%` | ![Python](https://img.shields.io/badge/Python-151515?style=flat-square&logo=python&logoColor=E23636) ![JS](https://img.shields.io/badge/JavaScript-151515?style=flat-square&logo=javascript&logoColor=0064C8) ![C++](https://img.shields.io/badge/C++-151515?style=flat-square&logo=cplusplus&logoColor=E23636) |
+| **Web Dev** | `[████████░░] 80%` | ![HTML5](https://img.shields.io/badge/HTML5-151515?style=flat-square&logo=html5&logoColor=E23636) ![CSS3](https://img.shields.io/badge/CSS3-151515?style=flat-square&logo=css3&logoColor=0064C8) |
+| **Hacking** | `[███████░░░] 70%` | ![Kali](https://img.shields.io/badge/Kali_Linux-151515?style=flat-square&logo=kali-linux&logoColor=E23636) ![Burp](https://img.shields.io/badge/Burp_Suite-151515?style=flat-square&logo=burpsuite&logoColor=0064C8) |
+| **Creative** | `[█████████░] 90%` | ![Adobe](https://img.shields.io/badge/Premiere_Pro-151515?style=flat-square&logo=adobe-premiere-pro&logoColor=9999FF) |
+| **VCS** | `[██████████] 100%` | ![Git](https://img.shields.io/badge/Git-151515?style=flat-square&logo=git&logoColor=F05032) |
 
-<!-- Languages -->
-<img src="https://img.shields.io/badge/Python-151515?style=for-the-badge&logo=python&logoColor=E23636" />
-<img src="https://img.shields.io/badge/JavaScript-151515?style=for-the-badge&logo=javascript&logoColor=0064C8" />
-<img src="https://img.shields.io/badge/C++-151515?style=for-the-badge&logo=cplusplus&logoColor=E23636" />
-<img src="https://img.shields.io/badge/HTML5-151515?style=for-the-badge&logo=html5&logoColor=0064C8" />
-<img src="https://img.shields.io/badge/CSS3-151515?style=for-the-badge&logo=css3&logoColor=E23636" />
+---
 
-<!-- Tools -->
-<img src="https://img.shields.io/badge/Git-151515?style=for-the-badge&logo=git&logoColor=0064C8" />
-<img src="https://img.shields.io/badge/Video_Editing-151515?style=for-the-badge&logo=adobe-premiere-pro&logoColor=E23636" />
-<img src="https://img.shields.io/badge/Discord.py-151515?style=for-the-badge&logo=discord&logoColor=0064C8" />
+### 🕸️ [ACTIVE MISSIONS]
 
-<br/><br/>
+| **Objective** | **Status** | **Description** |
+| :--- | :--- | :--- |
+| **[Cha Hae](https://github.com/TheNextGenius/Cha-Hae)** | `[ONLINE]` | AI-powered personal Discord companion using `Discord.py`. |
+| **Bug Bounty** | `[HUNTING]` | Active reconnaissance on secure targets. Found a vulnerability? <br/> *My spider-sense is tingling!* |
 
-### 📊 Spidey Stats
+---
+
+<!-- 
+HIDDEN QUEST: DECRYPT ME
+VGhlIGFyY2hpdGVjdHVyZSBvZiBhIG1pbmQgaXMgbW9yZSBjb21wbGV4IHRoYW4gYW55IGNvZGUu
+(The architecture of a mind is more complex than any code.)
+-->
+
+### 📊 [SYSTEM METRICS]
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TheNextGenius&show_icons=true&bg_color=151515&title_color=E23636&text_color=FFFFFF&icon_color=0064C8&hide_border=true" alt="TheNextGenius Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheNextGenius&layout=compact&bg_color=151515&title_color=E23636&text_color=FFFFFF&hide_border=true&langs_count=5" alt="Top Langs" />
 </p>
 
-</div>
-
 ---
 
-### 🤖 Spotlight: Cha Hae
-
 <div align="center">
-  <p><i>"Your personal discord companion."</i></p>
-  <a href="https://github.com/TheNextGenius/Cha-Hae">
-    <img src="https://img.shields.io/github/stars/TheNextGenius/Cha-Hae?style=social" alt="Cha Hae Stars" />
-  </a>
+  <sub>LOGGING OUT... </sub>
   <br/>
-  <img src="https://img.shields.io/badge/Status-Online-success?style=flat-square&color=0064C8" />
-</div>
-
----
-
-<div align="center">
+  <sub><i>"With great power comes great responsibility."</i></sub>
+  <br/>
+  <br/>
   <img src="https://media.giphy.com/media/BWD3CtkpRGkyg/giphy.gif" width="100%" alt="Spider-Man Footer" />
-  <br/>
-  <sub><i>Made with 🕸️ and 🧠 by TheNextGenius</i></sub>
 </div>
