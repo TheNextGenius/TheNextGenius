@@ -5,11 +5,12 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/XGguBqDk93M9q/giphy.gif" width="600" alt="Sung Jin Woo Arise" />
+  <img src="https://media1.tenor.com/m/XGguBqDk93MAAAAC/solo-leveling-sung-jin-woo.gif" width="600" alt="Sung Jin Woo Arise" />
 </div>
 
 ---
 
+<!--
 ### 🏆 **[DUNGEON_REWARDS_LOOT]**
 
 <div align="center">
@@ -17,6 +18,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=TheNextGenius&theme=discord&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
   </a>
 </div>
+-->
 
 ---
 
@@ -55,7 +57,8 @@
 ### 🟣 **[DUNGEON_CLEAR_STATS]**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheNextGenius&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" />
+  <!-- Stats temporarily disabled due to service impedance (503) -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=TheNextGenius&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" /> -->
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheNextGenius&theme=tokyonight&hide_border=true" alt="Streak" />
 </div>
