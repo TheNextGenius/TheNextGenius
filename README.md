@@ -6,7 +6,7 @@
 
 <div align="center">
   <!-- Local High-Res Arise GIF -->
-  <img src="assets/header.gif" width="600" alt="Sung Jin Woo Arise" />
+  <img src="assets/header.gif" width="500" alt="Sung Jin Woo Arise" />
 </div>
 
 ---
@@ -31,7 +31,7 @@
 
 <div align="center">
   <!-- Igris Portal -->
-  <img src="assets/igris.gif" width="600" alt="Igris Arise" />
+  <img src="assets/igris.gif" width="300" alt="Igris Arise" />
 </div>
 
 ### 🦇 **[SHADOW_ARMY_SKILLS]**
@@ -46,7 +46,7 @@
 
 <div align="center">
   <!-- Shadow Army March -->
-  <img src="assets/army.gif" width="600" alt="Shadow Army March" />
+  <img src="assets/army.gif" width="450" alt="Shadow Army March" />
 </div>
 
 ### 🟣 **[DUNGEON_CLEAR_STATS]**
@@ -78,7 +78,7 @@
 
 <div align="center">
   <h3><b>ARISE.</b></h3>
-  <img src="https://media1.tenor.com/m/7ydr3yFqXWAAAAAC/solo-leveling-arise.gif" width="100%" alt="Solo Leveling Footer" />
+  <img src="assets/footer.gif" width="500" alt="Solo Leveling Footer" />
   <br/>
   <br/>
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
