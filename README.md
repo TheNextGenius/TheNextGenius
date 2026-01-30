@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/oXnN2TNSgfJQI/giphy.gif" width="600" alt="Spider-Man Swinging" />
 
-  <h1 style="color: #E23636; font-family: 'Arial Black', sans-serif;">Hey there! I'm TheNextGenius 🕸️</h1>
+  <h1 style="color: #E23636; font-family: 'Arial Black', sans-serif;">Hey there! I'm Jay Shukla 🕸️</h1>
   
   <p style="font-size: 1.2em; color: #0064C8;">
     <b>"With great power comes great code."</b>
