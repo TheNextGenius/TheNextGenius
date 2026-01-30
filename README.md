@@ -20,8 +20,6 @@
 </div>
 -->
 
----
-
 ### 🟦 **[SYSTEM_STATUS_WINDOW]**
 
 | **PARAMETER** | **VALUE** |
@@ -35,24 +33,23 @@
 
 ---
 
+<div align="center">
+  <img src="https://media.giphy.com/media/LmgFh01B1T5J1rG0sX/giphy.gif" width="200" alt="Void Portal" />
+</div>
+
 ### 🦇 **[SHADOW_ARMY_SKILLS]**
 
 <div align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=4B0082" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=00008B" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&color=4B0082" />
-  <!-- Hacking -->
-  <br/>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white&color=00008B" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white&color=4B0082" />
-  <!-- Tools -->
-   <br/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&color=00008B" />
-  <img src="https://img.shields.io/badge/Discord.py-7289DA?style=for-the-badge&logo=discord&logoColor=white&color=4B0082" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,nextjs,nodejs,linux,git,discord,vscode,ae,pr,ps&perline=8&theme=dark" alt="My Skills" />
+  </a>
 </div>
 
 ---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/LmgFh01B1T5J1rG0sX/giphy.gif" width="200" alt="Void Portal" />
+</div>
 
 ### 🟣 **[DUNGEON_CLEAR_STATS]**
 
@@ -84,9 +81,11 @@
 
 <div align="center">
   <h3><b>ARISE.</b></h3>
-  <img src="https://media.giphy.com/media/10UeedrT5MIfPG/giphy.gif" width="100%" alt="Solo Leveling Footer" />
+  <img src="https://media1.tenor.com/m/7ydr3yFqXWAAAAAC/solo-leveling-arise.gif" width="100%" alt="Solo Leveling Footer" />
   <br/>
   <br/>
-  <!-- Music Visualizer Placeholder -->
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <br/>
+  <!-- Music Visualizer -->
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/equalizer.gif" width="300" alt="Music Visualizer" />
 </div>
