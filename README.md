@@ -6,7 +6,7 @@
 
 <div align="center">
   <!-- Local High-Res Arise GIF -->
-  <img src="assets/header.gif" width="500" alt="Sung Jin Woo Arise" />
+  <img src="assets/header.gif" width="350" alt="Sung Jin Woo Arise" />
 </div>
 
 ---
