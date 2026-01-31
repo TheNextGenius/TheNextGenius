@@ -2,6 +2,8 @@ import type { Metadata } from "next";
 import { Cinzel, Roboto_Mono } from "next/font/google";
 import "./globals.css";
 
+import { ThemeProvider } from "@/context/ThemeContext";
+
 const cinzel = Cinzel({
   variable: "--font-cinzel",
   subsets: ["latin"],
@@ -27,7 +29,9 @@ export default function RootLayout({
       <body
         className={`${cinzel.variable} ${robotoMono.variable} antialiased bg-black text-white`}
       >
-        {children}
+        <ThemeProvider>
+          {children}
+        </ThemeProvider>
       </body>
     </html>
   );

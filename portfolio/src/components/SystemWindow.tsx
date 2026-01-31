@@ -2,6 +2,7 @@
 
 import { motion } from "framer-motion";
 import { ReactNode } from "react";
+import { useTheme } from "@/context/ThemeContext";
 
 interface SystemWindowProps {
     children: ReactNode;
@@ -10,6 +11,39 @@ interface SystemWindowProps {
 }
 
 export default function SystemWindow({ children, title = "SYSTEM ALERT", className = "" }: SystemWindowProps) {
+    const { isProfessionalMode } = useTheme();
+
+    // Default professional titles if none provided
+    const displayTitle = isProfessionalMode && title === "SYSTEM ALERT" ? "INFORMATION" : title;
+
+    if (isProfessionalMode) {
+        return (
+            <motion.div
+                initial={{ opacity: 0, y: 20 }}
+                animate={{ opacity: 1, y: 0 }}
+                transition={{ duration: 0.5 }}
+                className={`bg-slate-900/50 backdrop-blur-sm border border-slate-700/50 rounded-xl overflow-hidden shadow-2xl ${className}`}
+            >
+                {/* Clean Header */}
+                <div className="bg-slate-800/50 px-6 py-4 border-b border-slate-700/50 flex justify-between items-center">
+                    <span className="text-slate-200 font-sans font-semibold tracking-tight">
+                        {displayTitle}
+                    </span>
+                    <div className="flex gap-1.5">
+                        <div className="w-2.5 h-2.5 rounded-full bg-slate-700" />
+                        <div className="w-2.5 h-2.5 rounded-full bg-slate-700" />
+                        <div className="w-2.5 h-2.5 rounded-full bg-slate-700" />
+                    </div>
+                </div>
+
+                {/* Content */}
+                <div className="p-8">
+                    {children}
+                </div>
+            </motion.div>
+        );
+    }
+
     return (
         <motion.div
             initial={{ scale: 0.9, opacity: 0 }}

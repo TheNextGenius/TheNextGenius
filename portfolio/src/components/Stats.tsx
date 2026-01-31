@@ -2,13 +2,14 @@
 
 import { motion } from "framer-motion";
 import SystemWindow from "./SystemWindow";
+import { useTheme } from "@/context/ThemeContext";
 
 const stats = [
-    { name: "LEVEL", value: "MAX", color: "text-system-purple" },
-    { name: "STRENGTH", value: "95", max: 100, color: "text-red-500" },
-    { name: "AGILITY", value: "88", max: 100, color: "text-green-500" },
-    { name: "INTELLIGENCE", value: "92", max: 100, color: "text-blue-500" },
-    { name: "MANA", value: "∞", color: "text-system-blue" },
+    { name: "LEVEL", value: "MAX", proName: "EXPERIENCE", color: "text-system-purple", proColor: "text-blue-400" },
+    { name: "STRENGTH", value: "95", max: 100, proName: "BACKEND", color: "text-red-500", proColor: "text-blue-500" },
+    { name: "AGILITY", value: "88", max: 100, proName: "FRONTEND", color: "text-green-500", proColor: "text-emerald-500" },
+    { name: "INTELLIGENCE", value: "92", max: 100, proName: "PROBLEM SOLVING", color: "text-blue-500", proColor: "text-indigo-500" },
+    { name: "MANA", value: "∞", proName: "RELIABILITY", proValue: "100%", color: "text-system-blue", proColor: "text-cyan-500" },
 ];
 
 const skills = [
@@ -17,11 +18,14 @@ const skills = [
 ];
 
 export default function Stats() {
+    const { isProfessionalMode } = useTheme();
+
     return (
-        <section id="stats" className="min-h-screen flex items-center justify-center py-20 px-4">
+        <section id="stats" className={`min-h-screen flex items-center justify-center py-20 px-4 transition-colors duration-700 ${isProfessionalMode ? "bg-slate-950" : ""
+            }`}>
             <div className="max-w-6xl w-full grid md:grid-cols-2 gap-8">
                 {/* Stats Window */}
-                <SystemWindow title="PLAYER STATS">
+                <SystemWindow title={isProfessionalMode ? "CORE COMPETENCIES" : "PLAYER STATS"}>
                     <div className="space-y-6">
                         {stats.map((stat, i) => (
                             <motion.div
@@ -32,17 +36,24 @@ export default function Stats() {
                                 viewport={{ once: true }}
                             >
                                 <div className="flex justify-between mb-2">
-                                    <span className="font-mono text-sm text-gray-400">{stat.name}</span>
-                                    <span className={`font-bold ${stat.color}`}>{stat.value}</span>
+                                    <span className="font-mono text-sm text-gray-400">
+                                        {isProfessionalMode ? stat.proName : stat.name}
+                                    </span>
+                                    <span className={`font-bold transition-colors duration-500 ${isProfessionalMode ? stat.proColor : stat.color}`}>
+                                        {isProfessionalMode && stat.proValue ? stat.proValue : stat.value}
+                                    </span>
                                 </div>
                                 {stat.max && (
-                                    <div className="h-2 bg-shadow-gray rounded-full overflow-hidden">
+                                    <div className={`h-2 rounded-full overflow-hidden transition-colors ${isProfessionalMode ? "bg-slate-800" : "bg-shadow-gray"}`}>
                                         <motion.div
                                             initial={{ width: 0 }}
                                             whileInView={{ width: `${(parseInt(stat.value) / stat.max) * 100}%` }}
                                             transition={{ delay: i * 0.1 + 0.2, duration: 0.8 }}
                                             viewport={{ once: true }}
-                                            className={`h-full ${stat.color.replace('text', 'bg')} shadow-[0_0_10px_currentColor]`}
+                                            className={`h-full transition-all duration-500 ${isProfessionalMode
+                                                ? stat.proColor.replace('text', 'bg')
+                                                : stat.color.replace('text', 'bg') + " shadow-[0_0_10px_currentColor]"
+                                                }`}
                                         />
                                     </div>
                                 )}
@@ -52,17 +63,23 @@ export default function Stats() {
                 </SystemWindow>
 
                 {/* Skills Window */}
-                <SystemWindow title="SHADOW ARMY [SKILLS]">
+                <SystemWindow title={isProfessionalMode ? "TECHNICAL SKILLS" : "SHADOW ARMY [SKILLS]"}>
                     <div className="grid grid-cols-2 gap-3">
                         {skills.map((skill, i) => (
                             <motion.div
                                 key={skill}
                                 initial={{ opacity: 0, scale: 0.8 }}
                                 whileInView={{ opacity: 1, scale: 1 }}
-                                whileHover={{ scale: 1.05, boxShadow: "0 0 15px rgba(0,180,216,0.5)" }}
+                                whileHover={{
+                                    scale: 1.05,
+                                    boxShadow: isProfessionalMode ? "0 0 15px rgba(59,130,246,0.3)" : "0 0 15px rgba(0,180,216,0.5)"
+                                }}
                                 transition={{ delay: i * 0.05 }}
                                 viewport={{ once: true }}
-                                className="bg-shadow-gray border border-system-blue/30 rounded p-3 text-center font-mono text-sm hover:border-system-blue transition-all cursor-pointer"
+                                className={`border rounded p-3 text-center font-mono text-sm transition-all cursor-pointer ${isProfessionalMode
+                                    ? "bg-slate-800/50 border-slate-700 hover:border-blue-400 text-slate-300"
+                                    : "bg-shadow-gray border-system-blue/30 hover:border-system-blue text-white"
+                                    }`}
                             >
                                 {skill}
                             </motion.div>
